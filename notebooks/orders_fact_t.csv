@@ -1,197 +1,197 @@
-OrderID,CustomerID,EmployeeID,OrderDate,ShipperID,CustomerName,Country,FirstName,LastName,ShipperName
-10248,90,5,1996-07-04,3,Wilman Kala ,Finland ,Steven,Buchanan,Federal Shipping
-10249,81,6,1996-07-05,1,Tradição Hipermercados ,Brazil ,Michael,Suyama,Speedy Express
-10250,34,4,1996-07-08,2,Hanari Carnes ,Brazil ,Margaret,Peacock,United Package
-10251,84,3,1996-07-08,1,Victuailles en stock ,France ,Janet,Leverling,Speedy Express
-10252,76,4,1996-07-09,2,Suprêmes délices ,Belgium ,Margaret,Peacock,United Package
-10253,34,3,1996-07-10,2,Hanari Carnes ,Brazil ,Janet,Leverling,United Package
-10254,14,5,1996-07-11,2,Chop-suey Chinese ,Switzerland ,Steven,Buchanan,United Package
-10255,68,9,1996-07-12,3,Richter Supermarkt ,Switzerland ,Anne,Dodsworth,Federal Shipping
-10256,88,3,1996-07-15,2,Wellington Importadora ,Brazil ,Janet,Leverling,United Package
-10257,35,4,1996-07-16,3,HILARIÓN-Abastos ,Venezuela ,Margaret,Peacock,Federal Shipping
-10258,20,1,1996-07-17,1,Ernst Handel ,Austria ,Nancy,Davolio,Speedy Express
-10259,13,4,1996-07-18,3,Centro comercial Moctezuma ,Mexico ,Margaret,Peacock,Federal Shipping
-10260,55,4,1996-07-19,1,Old World Delicatessen ,USA ,Margaret,Peacock,Speedy Express
-10261,61,4,1996-07-19,2,Que Delícia ,Brazil ,Margaret,Peacock,United Package
-10262,65,8,1996-07-22,3,Rattlesnake Canyon Grocery ,USA ,Laura,Callahan,Federal Shipping
-10263,20,9,1996-07-23,3,Ernst Handel ,Austria ,Anne,Dodsworth,Federal Shipping
-10264,24,6,1996-07-24,3,Folk och fä HB ,Sweden ,Michael,Suyama,Federal Shipping
-10265,7,2,1996-07-25,1,Blondel père et fils ,France ,Andrew,Fuller,Speedy Express
-10266,87,3,1996-07-26,3,Wartian Herkku ,Finland ,Janet,Leverling,Federal Shipping
-10267,25,4,1996-07-29,1,Frankenversand ,Germany ,Margaret,Peacock,Speedy Express
-10268,33,8,1996-07-30,3,GROSELLA-Restaurante ,Venezuela ,Laura,Callahan,Federal Shipping
-10269,89,5,1996-07-31,1,White Clover Markets ,USA ,Steven,Buchanan,Speedy Express
-10270,87,1,1996-08-01,1,Wartian Herkku ,Finland ,Nancy,Davolio,Speedy Express
-10271,75,6,1996-08-01,2,Split Rail Beer & Ale ,USA ,Michael,Suyama,United Package
-10272,65,6,1996-08-02,2,Rattlesnake Canyon Grocery ,USA ,Michael,Suyama,United Package
-10273,63,3,1996-08-05,3,QUICK-Stop ,Germany ,Janet,Leverling,Federal Shipping
-10274,85,6,1996-08-06,1,Vins et alcools Chevalier ,France ,Michael,Suyama,Speedy Express
-10275,49,1,1996-08-07,1,Magazzini Alimentari Riuniti ,Italy ,Nancy,Davolio,Speedy Express
-10276,80,8,1996-08-08,3,Tortuga Restaurante ,Mexico ,Laura,Callahan,Federal Shipping
-10277,52,2,1996-08-09,3,Morgenstern Gesundkost ,Germany ,Andrew,Fuller,Federal Shipping
-10278,5,8,1996-08-12,2,Berglunds snabbköp ,Sweden ,Laura,Callahan,United Package
-10279,44,8,1996-08-13,2,Lehmanns Marktstand ,Germany ,Laura,Callahan,United Package
-10280,5,2,1996-08-14,1,Berglunds snabbköp ,Sweden ,Andrew,Fuller,Speedy Express
-10281,69,4,1996-08-14,1,Romero y tomillo ,Spain ,Margaret,Peacock,Speedy Express
-10282,69,4,1996-08-15,1,Romero y tomillo ,Spain ,Margaret,Peacock,Speedy Express
-10283,46,3,1996-08-16,3,LILA-Supermercado ,Venezuela ,Janet,Leverling,Federal Shipping
-10284,44,4,1996-08-19,1,Lehmanns Marktstand ,Germany ,Margaret,Peacock,Speedy Express
-10285,63,1,1996-08-20,2,QUICK-Stop ,Germany ,Nancy,Davolio,United Package
-10286,63,8,1996-08-21,3,QUICK-Stop ,Germany ,Laura,Callahan,Federal Shipping
-10287,67,8,1996-08-22,3,Ricardo Adocicados ,Brazil ,Laura,Callahan,Federal Shipping
-10288,66,4,1996-08-23,1,Reggiani Caseifici ,Italy ,Margaret,Peacock,Speedy Express
-10289,11,7,1996-08-26,3,B's Beverages ,UK ,Robert,King,Federal Shipping
-10290,15,8,1996-08-27,1,Comércio Mineiro ,Brazil ,Laura,Callahan,Speedy Express
-10291,61,6,1996-08-27,2,Que Delícia ,Brazil ,Michael,Suyama,United Package
-10292,81,1,1996-08-28,2,Tradição Hipermercados ,Brazil ,Nancy,Davolio,United Package
-10293,80,1,1996-08-29,3,Tortuga Restaurante ,Mexico ,Nancy,Davolio,Federal Shipping
-10294,65,4,1996-08-30,2,Rattlesnake Canyon Grocery ,USA ,Margaret,Peacock,United Package
-10295,85,2,1996-09-02,2,Vins et alcools Chevalier ,France ,Andrew,Fuller,United Package
-10296,46,6,1996-09-03,1,LILA-Supermercado ,Venezuela ,Michael,Suyama,Speedy Express
-10297,7,5,1996-09-04,2,Blondel père et fils ,France ,Steven,Buchanan,United Package
-10298,37,6,1996-09-05,2,Hungry Owl All-Night Grocers ,Ireland ,Michael,Suyama,United Package
-10299,67,4,1996-09-06,2,Ricardo Adocicados ,Brazil ,Margaret,Peacock,United Package
-10300,49,2,1996-09-09,2,Magazzini Alimentari Riuniti ,Italy ,Andrew,Fuller,United Package
-10301,86,8,1996-09-09,2,Die Wandernde Kuh ,Germany ,Laura,Callahan,United Package
-10302,76,4,1996-09-10,2,Suprêmes délices ,Belgium ,Margaret,Peacock,United Package
-10303,30,7,1996-09-11,2,Godos Cocina Típica ,Spain ,Robert,King,United Package
-10304,80,1,1996-09-12,2,Tortuga Restaurante ,Mexico ,Nancy,Davolio,United Package
-10305,55,8,1996-09-13,3,Old World Delicatessen ,USA ,Laura,Callahan,Federal Shipping
-10306,69,1,1996-09-16,3,Romero y tomillo ,Spain ,Nancy,Davolio,Federal Shipping
-10307,48,2,1996-09-17,2,Lonesome Pine Restaurant ,USA ,Andrew,Fuller,United Package
-10308,2,7,1996-09-18,3,Ana Trujillo Emparedados y helados ,Mexico ,Robert,King,Federal Shipping
-10309,37,3,1996-09-19,1,Hungry Owl All-Night Grocers ,Ireland ,Janet,Leverling,Speedy Express
-10310,77,8,1996-09-20,2,The Big Cheese ,USA ,Laura,Callahan,United Package
-10311,18,1,1996-09-20,3,Du monde entier ,France ,Nancy,Davolio,Federal Shipping
-10312,86,2,1996-09-23,2,Die Wandernde Kuh ,Germany ,Andrew,Fuller,United Package
-10313,63,2,1996-09-24,2,QUICK-Stop ,Germany ,Andrew,Fuller,United Package
-10314,65,1,1996-09-25,2,Rattlesnake Canyon Grocery ,USA ,Nancy,Davolio,United Package
-10315,38,4,1996-09-26,2,Island Trading ,UK ,Margaret,Peacock,United Package
-10316,65,1,1996-09-27,3,Rattlesnake Canyon Grocery ,USA ,Nancy,Davolio,Federal Shipping
-10317,48,6,1996-09-30,1,Lonesome Pine Restaurant ,USA ,Michael,Suyama,Speedy Express
-10318,38,8,1996-10-01,2,Island Trading ,UK ,Laura,Callahan,United Package
-10319,80,7,1996-10-02,3,Tortuga Restaurante ,Mexico ,Robert,King,Federal Shipping
-10320,87,5,1996-10-03,3,Wartian Herkku ,Finland ,Steven,Buchanan,Federal Shipping
-10321,38,3,1996-10-03,2,Island Trading ,UK ,Janet,Leverling,United Package
-10322,58,7,1996-10-04,3,Pericles Comidas clásicas ,Mexico ,Robert,King,Federal Shipping
-10323,39,4,1996-10-07,1,Königlich Essen ,Germany ,Margaret,Peacock,Speedy Express
-10324,71,9,1996-10-08,1,Save-a-lot Markets ,USA ,Anne,Dodsworth,Speedy Express
-10325,39,1,1996-10-09,3,Königlich Essen ,Germany ,Nancy,Davolio,Federal Shipping
-10326,8,4,1996-10-10,2,Bólido Comidas preparadas ,Spain ,Margaret,Peacock,United Package
-10327,24,2,1996-10-11,1,Folk och fä HB ,Sweden ,Andrew,Fuller,Speedy Express
-10328,28,4,1996-10-14,3,Furia Bacalhau e Frutos do Mar ,Portugal ,Margaret,Peacock,Federal Shipping
-10329,75,4,1996-10-15,2,Split Rail Beer & Ale ,USA ,Margaret,Peacock,United Package
-10330,46,3,1996-10-16,1,LILA-Supermercado ,Venezuela ,Janet,Leverling,Speedy Express
-10331,9,9,1996-10-16,1,Bon app' ,France ,Anne,Dodsworth,Speedy Express
-10332,51,3,1996-10-17,2,Mère Paillarde ,Canada ,Janet,Leverling,United Package
-10333,87,5,1996-10-18,3,Wartian Herkku ,Finland ,Steven,Buchanan,Federal Shipping
-10334,84,8,1996-10-21,2,Victuailles en stock ,France ,Laura,Callahan,United Package
-10335,37,7,1996-10-22,2,Hungry Owl All-Night Grocers ,Ireland ,Robert,King,United Package
-10336,60,7,1996-10-23,2,Princesa Isabel Vinhoss ,Portugal ,Robert,King,United Package
-10337,25,4,1996-10-24,3,Frankenversand ,Germany ,Margaret,Peacock,Federal Shipping
-10338,55,4,1996-10-25,3,Old World Delicatessen ,USA ,Margaret,Peacock,Federal Shipping
-10339,51,2,1996-10-28,2,Mère Paillarde ,Canada ,Andrew,Fuller,United Package
-10340,9,1,1996-10-29,3,Bon app' ,France ,Nancy,Davolio,Federal Shipping
-10341,73,7,1996-10-29,3,Simons bistro ,Denmark ,Robert,King,Federal Shipping
-10342,25,4,1996-10-30,2,Frankenversand ,Germany ,Margaret,Peacock,United Package
-10343,44,4,1996-10-31,1,Lehmanns Marktstand ,Germany ,Margaret,Peacock,Speedy Express
-10344,89,4,1996-11-01,2,White Clover Markets ,USA ,Margaret,Peacock,United Package
-10345,63,2,1996-11-04,2,QUICK-Stop ,Germany ,Andrew,Fuller,United Package
-10346,65,3,1996-11-05,3,Rattlesnake Canyon Grocery ,USA ,Janet,Leverling,Federal Shipping
-10347,21,4,1996-11-06,3,Familia Arquibaldo ,Brazil ,Margaret,Peacock,Federal Shipping
-10348,86,4,1996-11-07,2,Die Wandernde Kuh ,Germany ,Margaret,Peacock,United Package
-10349,75,7,1996-11-08,1,Split Rail Beer & Ale ,USA ,Robert,King,Speedy Express
-10350,41,6,1996-11-11,2,La maison d'Asie ,France ,Michael,Suyama,United Package
-10351,20,1,1996-11-11,1,Ernst Handel ,Austria ,Nancy,Davolio,Speedy Express
-10352,28,3,1996-11-12,3,Furia Bacalhau e Frutos do Mar ,Portugal ,Janet,Leverling,Federal Shipping
-10353,59,7,1996-11-13,3,Piccolo und mehr ,Austria ,Robert,King,Federal Shipping
-10354,58,8,1996-11-14,3,Pericles Comidas clásicas ,Mexico ,Laura,Callahan,Federal Shipping
-10355,4,6,1996-11-15,1,Around the Horn ,UK ,Michael,Suyama,Speedy Express
-10356,86,6,1996-11-18,2,Die Wandernde Kuh ,Germany ,Michael,Suyama,United Package
-10357,46,1,1996-11-19,3,LILA-Supermercado ,Venezuela ,Nancy,Davolio,Federal Shipping
-10358,41,5,1996-11-20,1,La maison d'Asie ,France ,Steven,Buchanan,Speedy Express
-10359,72,5,1996-11-21,3,Seven Seas Imports ,UK ,Steven,Buchanan,Federal Shipping
-10360,7,4,1996-11-22,3,Blondel père et fils ,France ,Margaret,Peacock,Federal Shipping
-10361,63,1,1996-11-22,2,QUICK-Stop ,Germany ,Nancy,Davolio,United Package
-10362,9,3,1996-11-25,1,Bon app' ,France ,Janet,Leverling,Speedy Express
-10363,17,4,1996-11-26,3,Drachenblut Delikatessend ,Germany ,Margaret,Peacock,Federal Shipping
-10364,19,1,1996-11-26,1,Eastern Connection ,UK ,Nancy,Davolio,Speedy Express
-10365,3,3,1996-11-27,2,Antonio Moreno Taquería ,Mexico ,Janet,Leverling,United Package
-10366,29,8,1996-11-28,2,Galería del gastrónomo ,Spain ,Laura,Callahan,United Package
-10367,83,7,1996-11-28,3,Vaffeljernet ,Denmark ,Robert,King,Federal Shipping
-10368,20,2,1996-11-29,2,Ernst Handel ,Austria ,Andrew,Fuller,United Package
-10369,75,8,1996-12-02,2,Split Rail Beer & Ale ,USA ,Laura,Callahan,United Package
-10370,14,6,1996-12-03,2,Chop-suey Chinese ,Switzerland ,Michael,Suyama,United Package
-10371,41,1,1996-12-03,1,La maison d'Asie ,France ,Nancy,Davolio,Speedy Express
-10372,62,5,1996-12-04,2,Queen Cozinha ,Brazil ,Steven,Buchanan,United Package
-10373,37,4,1996-12-05,3,Hungry Owl All-Night Grocers ,Ireland ,Margaret,Peacock,Federal Shipping
-10374,91,1,1996-12-05,3,Wolski ,Poland ,Nancy,Davolio,Federal Shipping
-10375,36,3,1996-12-06,2,Hungry Coyote Import Store ,USA ,Janet,Leverling,United Package
-10376,51,1,1996-12-09,2,Mère Paillarde ,Canada ,Nancy,Davolio,United Package
-10377,72,1,1996-12-09,3,Seven Seas Imports ,UK ,Nancy,Davolio,Federal Shipping
-10378,24,5,1996-12-10,3,Folk och fä HB ,Sweden ,Steven,Buchanan,Federal Shipping
-10379,61,2,1996-12-11,1,Que Delícia ,Brazil ,Andrew,Fuller,Speedy Express
-10380,37,8,1996-12-12,3,Hungry Owl All-Night Grocers ,Ireland ,Laura,Callahan,Federal Shipping
-10381,46,3,1996-12-12,3,LILA-Supermercado ,Venezuela ,Janet,Leverling,Federal Shipping
-10382,20,4,1996-12-13,1,Ernst Handel ,Austria ,Margaret,Peacock,Speedy Express
-10383,4,8,1996-12-16,3,Around the Horn ,UK ,Laura,Callahan,Federal Shipping
-10384,5,3,1996-12-16,3,Berglunds snabbköp ,Sweden ,Janet,Leverling,Federal Shipping
-10385,75,1,1996-12-17,2,Split Rail Beer & Ale ,USA ,Nancy,Davolio,United Package
-10386,21,9,1996-12-18,3,Familia Arquibaldo ,Brazil ,Anne,Dodsworth,Federal Shipping
-10387,70,1,1996-12-18,2,Santé Gourmet ,Norway ,Nancy,Davolio,United Package
-10388,72,2,1996-12-19,1,Seven Seas Imports ,UK ,Andrew,Fuller,Speedy Express
-10389,10,4,1996-12-20,2,Bottom-Dollar Marketse ,Canada ,Margaret,Peacock,United Package
-10390,20,6,1996-12-23,1,Ernst Handel ,Austria ,Michael,Suyama,Speedy Express
-10391,17,3,1996-12-23,3,Drachenblut Delikatessend ,Germany ,Janet,Leverling,Federal Shipping
-10392,59,2,1996-12-24,3,Piccolo und mehr ,Austria ,Andrew,Fuller,Federal Shipping
-10393,71,1,1996-12-25,3,Save-a-lot Markets ,USA ,Nancy,Davolio,Federal Shipping
-10394,36,1,1996-12-25,3,Hungry Coyote Import Store ,USA ,Nancy,Davolio,Federal Shipping
-10395,35,6,1996-12-26,1,HILARIÓN-Abastos ,Venezuela ,Michael,Suyama,Speedy Express
-10396,25,1,1996-12-27,3,Frankenversand ,Germany ,Nancy,Davolio,Federal Shipping
-10397,60,5,1996-12-27,1,Princesa Isabel Vinhoss ,Portugal ,Steven,Buchanan,Speedy Express
-10398,71,2,1996-12-30,3,Save-a-lot Markets ,USA ,Andrew,Fuller,Federal Shipping
-10399,83,8,1996-12-31,3,Vaffeljernet ,Denmark ,Laura,Callahan,Federal Shipping
-10400,19,1,1997-01-01,3,Eastern Connection ,UK ,Nancy,Davolio,Federal Shipping
-10401,65,1,1997-01-01,1,Rattlesnake Canyon Grocery ,USA ,Nancy,Davolio,Speedy Express
-10402,20,8,1997-01-02,2,Ernst Handel ,Austria ,Laura,Callahan,United Package
-10403,20,4,1997-01-03,3,Ernst Handel ,Austria ,Margaret,Peacock,Federal Shipping
-10404,49,2,1997-01-03,1,Magazzini Alimentari Riuniti ,Italy ,Andrew,Fuller,Speedy Express
-10405,47,1,1997-01-06,1,LINO-Delicateses ,Venezuela ,Nancy,Davolio,Speedy Express
-10406,62,7,1997-01-07,1,Queen Cozinha ,Brazil ,Robert,King,Speedy Express
-10407,56,2,1997-01-07,2,Ottilies Käseladen ,Germany ,Andrew,Fuller,United Package
-10408,23,8,1997-01-08,1,Folies gourmandes ,France ,Laura,Callahan,Speedy Express
-10409,54,3,1997-01-09,1,Océano Atlántico Ltda. ,Argentina ,Janet,Leverling,Speedy Express
-10410,10,3,1997-01-10,3,Bottom-Dollar Marketse ,Canada ,Janet,Leverling,Federal Shipping
-10411,10,9,1997-01-10,3,Bottom-Dollar Marketse ,Canada ,Anne,Dodsworth,Federal Shipping
-10412,87,8,1997-01-13,2,Wartian Herkku ,Finland ,Laura,Callahan,United Package
-10413,41,3,1997-01-14,2,La maison d'Asie ,France ,Janet,Leverling,United Package
-10414,21,2,1997-01-14,3,Familia Arquibaldo ,Brazil ,Andrew,Fuller,Federal Shipping
-10415,36,3,1997-01-15,1,Hungry Coyote Import Store ,USA ,Janet,Leverling,Speedy Express
-10416,87,8,1997-01-16,3,Wartian Herkku ,Finland ,Laura,Callahan,Federal Shipping
-10417,73,4,1997-01-16,3,Simons bistro ,Denmark ,Margaret,Peacock,Federal Shipping
-10418,63,4,1997-01-17,1,QUICK-Stop ,Germany ,Margaret,Peacock,Speedy Express
-10419,68,4,1997-01-20,2,Richter Supermarkt ,Switzerland ,Margaret,Peacock,United Package
-10420,88,3,1997-01-21,1,Wellington Importadora ,Brazil ,Janet,Leverling,Speedy Express
-10421,61,8,1997-01-21,1,Que Delícia ,Brazil ,Laura,Callahan,Speedy Express
-10422,27,2,1997-01-22,1,Franchi S.p.A. ,Italy ,Andrew,Fuller,Speedy Express
-10423,31,6,1997-01-23,3,Gourmet Lanchonetes ,Brazil ,Michael,Suyama,Federal Shipping
-10424,51,7,1997-01-23,2,Mère Paillarde ,Canada ,Robert,King,United Package
-10425,41,6,1997-01-24,2,La maison d'Asie ,France ,Michael,Suyama,United Package
-10426,29,4,1997-01-27,1,Galería del gastrónomo ,Spain ,Margaret,Peacock,Speedy Express
-10427,59,4,1997-01-27,2,Piccolo und mehr ,Austria ,Margaret,Peacock,United Package
-10428,66,7,1997-01-28,1,Reggiani Caseifici ,Italy ,Robert,King,Speedy Express
-10429,37,3,1997-01-29,2,Hungry Owl All-Night Grocers ,Ireland ,Janet,Leverling,United Package
-10430,20,4,1997-01-30,1,Ernst Handel ,Austria ,Margaret,Peacock,Speedy Express
-10431,10,4,1997-01-30,2,Bottom-Dollar Marketse ,Canada ,Margaret,Peacock,United Package
-10432,75,3,1997-01-31,2,Split Rail Beer & Ale ,USA ,Janet,Leverling,United Package
-10433,60,3,1997-02-03,3,Princesa Isabel Vinhoss ,Portugal ,Janet,Leverling,Federal Shipping
-10434,24,3,1997-02-03,2,Folk och fä HB ,Sweden ,Janet,Leverling,United Package
-10435,16,8,1997-02-04,2,Consolidated Holdings ,UK ,Laura,Callahan,United Package
-10436,7,3,1997-02-05,2,Blondel père et fils ,France ,Janet,Leverling,United Package
-10437,87,8,1997-02-05,1,Wartian Herkku ,Finland ,Laura,Callahan,Speedy Express
-10438,79,3,1997-02-06,2,Toms Spezialitäten ,Germany ,Janet,Leverling,United Package
-10439,51,6,1997-02-07,3,Mère Paillarde ,Canada ,Michael,Suyama,Federal Shipping
-10440,71,4,1997-02-10,2,Save-a-lot Markets ,USA ,Margaret,Peacock,United Package
-10441,55,3,1997-02-10,2,Old World Delicatessen ,USA ,Janet,Leverling,United Package
-10442,20,3,1997-02-11,2,Ernst Handel ,Austria ,Janet,Leverling,United Package
-10443,66,8,1997-02-12,1,Reggiani Caseifici ,Italy ,Laura,Callahan,Speedy Express
+OrderID,CustomerID,EmployeeID,OrderDate,ShipperID,CustomerName,Country,ShipperName,EmployeeName
+10248,90,5,1996-07-04,3,Wilman Kala ,Finland ,Federal Shipping,Steven Buchanan
+10249,81,6,1996-07-05,1,Tradição Hipermercados ,Brazil ,Speedy Express,Michael Suyama
+10250,34,4,1996-07-08,2,Hanari Carnes ,Brazil ,United Package,Margaret Peacock
+10251,84,3,1996-07-08,1,Victuailles en stock ,France ,Speedy Express,Janet Leverling
+10252,76,4,1996-07-09,2,Suprêmes délices ,Belgium ,United Package,Margaret Peacock
+10253,34,3,1996-07-10,2,Hanari Carnes ,Brazil ,United Package,Janet Leverling
+10254,14,5,1996-07-11,2,Chop-suey Chinese ,Switzerland ,United Package,Steven Buchanan
+10255,68,9,1996-07-12,3,Richter Supermarkt ,Switzerland ,Federal Shipping,Anne Dodsworth
+10256,88,3,1996-07-15,2,Wellington Importadora ,Brazil ,United Package,Janet Leverling
+10257,35,4,1996-07-16,3,HILARIÓN-Abastos ,Venezuela ,Federal Shipping,Margaret Peacock
+10258,20,1,1996-07-17,1,Ernst Handel ,Austria ,Speedy Express,Nancy Davolio
+10259,13,4,1996-07-18,3,Centro comercial Moctezuma ,Mexico ,Federal Shipping,Margaret Peacock
+10260,55,4,1996-07-19,1,Old World Delicatessen ,USA ,Speedy Express,Margaret Peacock
+10261,61,4,1996-07-19,2,Que Delícia ,Brazil ,United Package,Margaret Peacock
+10262,65,8,1996-07-22,3,Rattlesnake Canyon Grocery ,USA ,Federal Shipping,Laura Callahan
+10263,20,9,1996-07-23,3,Ernst Handel ,Austria ,Federal Shipping,Anne Dodsworth
+10264,24,6,1996-07-24,3,Folk och fä HB ,Sweden ,Federal Shipping,Michael Suyama
+10265,7,2,1996-07-25,1,Blondel père et fils ,France ,Speedy Express,Andrew Fuller
+10266,87,3,1996-07-26,3,Wartian Herkku ,Finland ,Federal Shipping,Janet Leverling
+10267,25,4,1996-07-29,1,Frankenversand ,Germany ,Speedy Express,Margaret Peacock
+10268,33,8,1996-07-30,3,GROSELLA-Restaurante ,Venezuela ,Federal Shipping,Laura Callahan
+10269,89,5,1996-07-31,1,White Clover Markets ,USA ,Speedy Express,Steven Buchanan
+10270,87,1,1996-08-01,1,Wartian Herkku ,Finland ,Speedy Express,Nancy Davolio
+10271,75,6,1996-08-01,2,Split Rail Beer & Ale ,USA ,United Package,Michael Suyama
+10272,65,6,1996-08-02,2,Rattlesnake Canyon Grocery ,USA ,United Package,Michael Suyama
+10273,63,3,1996-08-05,3,QUICK-Stop ,Germany ,Federal Shipping,Janet Leverling
+10274,85,6,1996-08-06,1,Vins et alcools Chevalier ,France ,Speedy Express,Michael Suyama
+10275,49,1,1996-08-07,1,Magazzini Alimentari Riuniti ,Italy ,Speedy Express,Nancy Davolio
+10276,80,8,1996-08-08,3,Tortuga Restaurante ,Mexico ,Federal Shipping,Laura Callahan
+10277,52,2,1996-08-09,3,Morgenstern Gesundkost ,Germany ,Federal Shipping,Andrew Fuller
+10278,5,8,1996-08-12,2,Berglunds snabbköp ,Sweden ,United Package,Laura Callahan
+10279,44,8,1996-08-13,2,Lehmanns Marktstand ,Germany ,United Package,Laura Callahan
+10280,5,2,1996-08-14,1,Berglunds snabbköp ,Sweden ,Speedy Express,Andrew Fuller
+10281,69,4,1996-08-14,1,Romero y tomillo ,Spain ,Speedy Express,Margaret Peacock
+10282,69,4,1996-08-15,1,Romero y tomillo ,Spain ,Speedy Express,Margaret Peacock
+10283,46,3,1996-08-16,3,LILA-Supermercado ,Venezuela ,Federal Shipping,Janet Leverling
+10284,44,4,1996-08-19,1,Lehmanns Marktstand ,Germany ,Speedy Express,Margaret Peacock
+10285,63,1,1996-08-20,2,QUICK-Stop ,Germany ,United Package,Nancy Davolio
+10286,63,8,1996-08-21,3,QUICK-Stop ,Germany ,Federal Shipping,Laura Callahan
+10287,67,8,1996-08-22,3,Ricardo Adocicados ,Brazil ,Federal Shipping,Laura Callahan
+10288,66,4,1996-08-23,1,Reggiani Caseifici ,Italy ,Speedy Express,Margaret Peacock
+10289,11,7,1996-08-26,3,B's Beverages ,UK ,Federal Shipping,Robert King
+10290,15,8,1996-08-27,1,Comércio Mineiro ,Brazil ,Speedy Express,Laura Callahan
+10291,61,6,1996-08-27,2,Que Delícia ,Brazil ,United Package,Michael Suyama
+10292,81,1,1996-08-28,2,Tradição Hipermercados ,Brazil ,United Package,Nancy Davolio
+10293,80,1,1996-08-29,3,Tortuga Restaurante ,Mexico ,Federal Shipping,Nancy Davolio
+10294,65,4,1996-08-30,2,Rattlesnake Canyon Grocery ,USA ,United Package,Margaret Peacock
+10295,85,2,1996-09-02,2,Vins et alcools Chevalier ,France ,United Package,Andrew Fuller
+10296,46,6,1996-09-03,1,LILA-Supermercado ,Venezuela ,Speedy Express,Michael Suyama
+10297,7,5,1996-09-04,2,Blondel père et fils ,France ,United Package,Steven Buchanan
+10298,37,6,1996-09-05,2,Hungry Owl All-Night Grocers ,Ireland ,United Package,Michael Suyama
+10299,67,4,1996-09-06,2,Ricardo Adocicados ,Brazil ,United Package,Margaret Peacock
+10300,49,2,1996-09-09,2,Magazzini Alimentari Riuniti ,Italy ,United Package,Andrew Fuller
+10301,86,8,1996-09-09,2,Die Wandernde Kuh ,Germany ,United Package,Laura Callahan
+10302,76,4,1996-09-10,2,Suprêmes délices ,Belgium ,United Package,Margaret Peacock
+10303,30,7,1996-09-11,2,Godos Cocina Típica ,Spain ,United Package,Robert King
+10304,80,1,1996-09-12,2,Tortuga Restaurante ,Mexico ,United Package,Nancy Davolio
+10305,55,8,1996-09-13,3,Old World Delicatessen ,USA ,Federal Shipping,Laura Callahan
+10306,69,1,1996-09-16,3,Romero y tomillo ,Spain ,Federal Shipping,Nancy Davolio
+10307,48,2,1996-09-17,2,Lonesome Pine Restaurant ,USA ,United Package,Andrew Fuller
+10308,2,7,1996-09-18,3,Ana Trujillo Emparedados y helados ,Mexico ,Federal Shipping,Robert King
+10309,37,3,1996-09-19,1,Hungry Owl All-Night Grocers ,Ireland ,Speedy Express,Janet Leverling
+10310,77,8,1996-09-20,2,The Big Cheese ,USA ,United Package,Laura Callahan
+10311,18,1,1996-09-20,3,Du monde entier ,France ,Federal Shipping,Nancy Davolio
+10312,86,2,1996-09-23,2,Die Wandernde Kuh ,Germany ,United Package,Andrew Fuller
+10313,63,2,1996-09-24,2,QUICK-Stop ,Germany ,United Package,Andrew Fuller
+10314,65,1,1996-09-25,2,Rattlesnake Canyon Grocery ,USA ,United Package,Nancy Davolio
+10315,38,4,1996-09-26,2,Island Trading ,UK ,United Package,Margaret Peacock
+10316,65,1,1996-09-27,3,Rattlesnake Canyon Grocery ,USA ,Federal Shipping,Nancy Davolio
+10317,48,6,1996-09-30,1,Lonesome Pine Restaurant ,USA ,Speedy Express,Michael Suyama
+10318,38,8,1996-10-01,2,Island Trading ,UK ,United Package,Laura Callahan
+10319,80,7,1996-10-02,3,Tortuga Restaurante ,Mexico ,Federal Shipping,Robert King
+10320,87,5,1996-10-03,3,Wartian Herkku ,Finland ,Federal Shipping,Steven Buchanan
+10321,38,3,1996-10-03,2,Island Trading ,UK ,United Package,Janet Leverling
+10322,58,7,1996-10-04,3,Pericles Comidas clásicas ,Mexico ,Federal Shipping,Robert King
+10323,39,4,1996-10-07,1,Königlich Essen ,Germany ,Speedy Express,Margaret Peacock
+10324,71,9,1996-10-08,1,Save-a-lot Markets ,USA ,Speedy Express,Anne Dodsworth
+10325,39,1,1996-10-09,3,Königlich Essen ,Germany ,Federal Shipping,Nancy Davolio
+10326,8,4,1996-10-10,2,Bólido Comidas preparadas ,Spain ,United Package,Margaret Peacock
+10327,24,2,1996-10-11,1,Folk och fä HB ,Sweden ,Speedy Express,Andrew Fuller
+10328,28,4,1996-10-14,3,Furia Bacalhau e Frutos do Mar ,Portugal ,Federal Shipping,Margaret Peacock
+10329,75,4,1996-10-15,2,Split Rail Beer & Ale ,USA ,United Package,Margaret Peacock
+10330,46,3,1996-10-16,1,LILA-Supermercado ,Venezuela ,Speedy Express,Janet Leverling
+10331,9,9,1996-10-16,1,Bon app' ,France ,Speedy Express,Anne Dodsworth
+10332,51,3,1996-10-17,2,Mère Paillarde ,Canada ,United Package,Janet Leverling
+10333,87,5,1996-10-18,3,Wartian Herkku ,Finland ,Federal Shipping,Steven Buchanan
+10334,84,8,1996-10-21,2,Victuailles en stock ,France ,United Package,Laura Callahan
+10335,37,7,1996-10-22,2,Hungry Owl All-Night Grocers ,Ireland ,United Package,Robert King
+10336,60,7,1996-10-23,2,Princesa Isabel Vinhoss ,Portugal ,United Package,Robert King
+10337,25,4,1996-10-24,3,Frankenversand ,Germany ,Federal Shipping,Margaret Peacock
+10338,55,4,1996-10-25,3,Old World Delicatessen ,USA ,Federal Shipping,Margaret Peacock
+10339,51,2,1996-10-28,2,Mère Paillarde ,Canada ,United Package,Andrew Fuller
+10340,9,1,1996-10-29,3,Bon app' ,France ,Federal Shipping,Nancy Davolio
+10341,73,7,1996-10-29,3,Simons bistro ,Denmark ,Federal Shipping,Robert King
+10342,25,4,1996-10-30,2,Frankenversand ,Germany ,United Package,Margaret Peacock
+10343,44,4,1996-10-31,1,Lehmanns Marktstand ,Germany ,Speedy Express,Margaret Peacock
+10344,89,4,1996-11-01,2,White Clover Markets ,USA ,United Package,Margaret Peacock
+10345,63,2,1996-11-04,2,QUICK-Stop ,Germany ,United Package,Andrew Fuller
+10346,65,3,1996-11-05,3,Rattlesnake Canyon Grocery ,USA ,Federal Shipping,Janet Leverling
+10347,21,4,1996-11-06,3,Familia Arquibaldo ,Brazil ,Federal Shipping,Margaret Peacock
+10348,86,4,1996-11-07,2,Die Wandernde Kuh ,Germany ,United Package,Margaret Peacock
+10349,75,7,1996-11-08,1,Split Rail Beer & Ale ,USA ,Speedy Express,Robert King
+10350,41,6,1996-11-11,2,La maison d'Asie ,France ,United Package,Michael Suyama
+10351,20,1,1996-11-11,1,Ernst Handel ,Austria ,Speedy Express,Nancy Davolio
+10352,28,3,1996-11-12,3,Furia Bacalhau e Frutos do Mar ,Portugal ,Federal Shipping,Janet Leverling
+10353,59,7,1996-11-13,3,Piccolo und mehr ,Austria ,Federal Shipping,Robert King
+10354,58,8,1996-11-14,3,Pericles Comidas clásicas ,Mexico ,Federal Shipping,Laura Callahan
+10355,4,6,1996-11-15,1,Around the Horn ,UK ,Speedy Express,Michael Suyama
+10356,86,6,1996-11-18,2,Die Wandernde Kuh ,Germany ,United Package,Michael Suyama
+10357,46,1,1996-11-19,3,LILA-Supermercado ,Venezuela ,Federal Shipping,Nancy Davolio
+10358,41,5,1996-11-20,1,La maison d'Asie ,France ,Speedy Express,Steven Buchanan
+10359,72,5,1996-11-21,3,Seven Seas Imports ,UK ,Federal Shipping,Steven Buchanan
+10360,7,4,1996-11-22,3,Blondel père et fils ,France ,Federal Shipping,Margaret Peacock
+10361,63,1,1996-11-22,2,QUICK-Stop ,Germany ,United Package,Nancy Davolio
+10362,9,3,1996-11-25,1,Bon app' ,France ,Speedy Express,Janet Leverling
+10363,17,4,1996-11-26,3,Drachenblut Delikatessend ,Germany ,Federal Shipping,Margaret Peacock
+10364,19,1,1996-11-26,1,Eastern Connection ,UK ,Speedy Express,Nancy Davolio
+10365,3,3,1996-11-27,2,Antonio Moreno Taquería ,Mexico ,United Package,Janet Leverling
+10366,29,8,1996-11-28,2,Galería del gastrónomo ,Spain ,United Package,Laura Callahan
+10367,83,7,1996-11-28,3,Vaffeljernet ,Denmark ,Federal Shipping,Robert King
+10368,20,2,1996-11-29,2,Ernst Handel ,Austria ,United Package,Andrew Fuller
+10369,75,8,1996-12-02,2,Split Rail Beer & Ale ,USA ,United Package,Laura Callahan
+10370,14,6,1996-12-03,2,Chop-suey Chinese ,Switzerland ,United Package,Michael Suyama
+10371,41,1,1996-12-03,1,La maison d'Asie ,France ,Speedy Express,Nancy Davolio
+10372,62,5,1996-12-04,2,Queen Cozinha ,Brazil ,United Package,Steven Buchanan
+10373,37,4,1996-12-05,3,Hungry Owl All-Night Grocers ,Ireland ,Federal Shipping,Margaret Peacock
+10374,91,1,1996-12-05,3,Wolski ,Poland ,Federal Shipping,Nancy Davolio
+10375,36,3,1996-12-06,2,Hungry Coyote Import Store ,USA ,United Package,Janet Leverling
+10376,51,1,1996-12-09,2,Mère Paillarde ,Canada ,United Package,Nancy Davolio
+10377,72,1,1996-12-09,3,Seven Seas Imports ,UK ,Federal Shipping,Nancy Davolio
+10378,24,5,1996-12-10,3,Folk och fä HB ,Sweden ,Federal Shipping,Steven Buchanan
+10379,61,2,1996-12-11,1,Que Delícia ,Brazil ,Speedy Express,Andrew Fuller
+10380,37,8,1996-12-12,3,Hungry Owl All-Night Grocers ,Ireland ,Federal Shipping,Laura Callahan
+10381,46,3,1996-12-12,3,LILA-Supermercado ,Venezuela ,Federal Shipping,Janet Leverling
+10382,20,4,1996-12-13,1,Ernst Handel ,Austria ,Speedy Express,Margaret Peacock
+10383,4,8,1996-12-16,3,Around the Horn ,UK ,Federal Shipping,Laura Callahan
+10384,5,3,1996-12-16,3,Berglunds snabbköp ,Sweden ,Federal Shipping,Janet Leverling
+10385,75,1,1996-12-17,2,Split Rail Beer & Ale ,USA ,United Package,Nancy Davolio
+10386,21,9,1996-12-18,3,Familia Arquibaldo ,Brazil ,Federal Shipping,Anne Dodsworth
+10387,70,1,1996-12-18,2,Santé Gourmet ,Norway ,United Package,Nancy Davolio
+10388,72,2,1996-12-19,1,Seven Seas Imports ,UK ,Speedy Express,Andrew Fuller
+10389,10,4,1996-12-20,2,Bottom-Dollar Marketse ,Canada ,United Package,Margaret Peacock
+10390,20,6,1996-12-23,1,Ernst Handel ,Austria ,Speedy Express,Michael Suyama
+10391,17,3,1996-12-23,3,Drachenblut Delikatessend ,Germany ,Federal Shipping,Janet Leverling
+10392,59,2,1996-12-24,3,Piccolo und mehr ,Austria ,Federal Shipping,Andrew Fuller
+10393,71,1,1996-12-25,3,Save-a-lot Markets ,USA ,Federal Shipping,Nancy Davolio
+10394,36,1,1996-12-25,3,Hungry Coyote Import Store ,USA ,Federal Shipping,Nancy Davolio
+10395,35,6,1996-12-26,1,HILARIÓN-Abastos ,Venezuela ,Speedy Express,Michael Suyama
+10396,25,1,1996-12-27,3,Frankenversand ,Germany ,Federal Shipping,Nancy Davolio
+10397,60,5,1996-12-27,1,Princesa Isabel Vinhoss ,Portugal ,Speedy Express,Steven Buchanan
+10398,71,2,1996-12-30,3,Save-a-lot Markets ,USA ,Federal Shipping,Andrew Fuller
+10399,83,8,1996-12-31,3,Vaffeljernet ,Denmark ,Federal Shipping,Laura Callahan
+10400,19,1,1997-01-01,3,Eastern Connection ,UK ,Federal Shipping,Nancy Davolio
+10401,65,1,1997-01-01,1,Rattlesnake Canyon Grocery ,USA ,Speedy Express,Nancy Davolio
+10402,20,8,1997-01-02,2,Ernst Handel ,Austria ,United Package,Laura Callahan
+10403,20,4,1997-01-03,3,Ernst Handel ,Austria ,Federal Shipping,Margaret Peacock
+10404,49,2,1997-01-03,1,Magazzini Alimentari Riuniti ,Italy ,Speedy Express,Andrew Fuller
+10405,47,1,1997-01-06,1,LINO-Delicateses ,Venezuela ,Speedy Express,Nancy Davolio
+10406,62,7,1997-01-07,1,Queen Cozinha ,Brazil ,Speedy Express,Robert King
+10407,56,2,1997-01-07,2,Ottilies Käseladen ,Germany ,United Package,Andrew Fuller
+10408,23,8,1997-01-08,1,Folies gourmandes ,France ,Speedy Express,Laura Callahan
+10409,54,3,1997-01-09,1,Océano Atlántico Ltda. ,Argentina ,Speedy Express,Janet Leverling
+10410,10,3,1997-01-10,3,Bottom-Dollar Marketse ,Canada ,Federal Shipping,Janet Leverling
+10411,10,9,1997-01-10,3,Bottom-Dollar Marketse ,Canada ,Federal Shipping,Anne Dodsworth
+10412,87,8,1997-01-13,2,Wartian Herkku ,Finland ,United Package,Laura Callahan
+10413,41,3,1997-01-14,2,La maison d'Asie ,France ,United Package,Janet Leverling
+10414,21,2,1997-01-14,3,Familia Arquibaldo ,Brazil ,Federal Shipping,Andrew Fuller
+10415,36,3,1997-01-15,1,Hungry Coyote Import Store ,USA ,Speedy Express,Janet Leverling
+10416,87,8,1997-01-16,3,Wartian Herkku ,Finland ,Federal Shipping,Laura Callahan
+10417,73,4,1997-01-16,3,Simons bistro ,Denmark ,Federal Shipping,Margaret Peacock
+10418,63,4,1997-01-17,1,QUICK-Stop ,Germany ,Speedy Express,Margaret Peacock
+10419,68,4,1997-01-20,2,Richter Supermarkt ,Switzerland ,United Package,Margaret Peacock
+10420,88,3,1997-01-21,1,Wellington Importadora ,Brazil ,Speedy Express,Janet Leverling
+10421,61,8,1997-01-21,1,Que Delícia ,Brazil ,Speedy Express,Laura Callahan
+10422,27,2,1997-01-22,1,Franchi S.p.A. ,Italy ,Speedy Express,Andrew Fuller
+10423,31,6,1997-01-23,3,Gourmet Lanchonetes ,Brazil ,Federal Shipping,Michael Suyama
+10424,51,7,1997-01-23,2,Mère Paillarde ,Canada ,United Package,Robert King
+10425,41,6,1997-01-24,2,La maison d'Asie ,France ,United Package,Michael Suyama
+10426,29,4,1997-01-27,1,Galería del gastrónomo ,Spain ,Speedy Express,Margaret Peacock
+10427,59,4,1997-01-27,2,Piccolo und mehr ,Austria ,United Package,Margaret Peacock
+10428,66,7,1997-01-28,1,Reggiani Caseifici ,Italy ,Speedy Express,Robert King
+10429,37,3,1997-01-29,2,Hungry Owl All-Night Grocers ,Ireland ,United Package,Janet Leverling
+10430,20,4,1997-01-30,1,Ernst Handel ,Austria ,Speedy Express,Margaret Peacock
+10431,10,4,1997-01-30,2,Bottom-Dollar Marketse ,Canada ,United Package,Margaret Peacock
+10432,75,3,1997-01-31,2,Split Rail Beer & Ale ,USA ,United Package,Janet Leverling
+10433,60,3,1997-02-03,3,Princesa Isabel Vinhoss ,Portugal ,Federal Shipping,Janet Leverling
+10434,24,3,1997-02-03,2,Folk och fä HB ,Sweden ,United Package,Janet Leverling
+10435,16,8,1997-02-04,2,Consolidated Holdings ,UK ,United Package,Laura Callahan
+10436,7,3,1997-02-05,2,Blondel père et fils ,France ,United Package,Janet Leverling
+10437,87,8,1997-02-05,1,Wartian Herkku ,Finland ,Speedy Express,Laura Callahan
+10438,79,3,1997-02-06,2,Toms Spezialitäten ,Germany ,United Package,Janet Leverling
+10439,51,6,1997-02-07,3,Mère Paillarde ,Canada ,Federal Shipping,Michael Suyama
+10440,71,4,1997-02-10,2,Save-a-lot Markets ,USA ,United Package,Margaret Peacock
+10441,55,3,1997-02-10,2,Old World Delicatessen ,USA ,United Package,Janet Leverling
+10442,20,3,1997-02-11,2,Ernst Handel ,Austria ,United Package,Janet Leverling
+10443,66,8,1997-02-12,1,Reggiani Caseifici ,Italy ,Speedy Express,Laura Callahan

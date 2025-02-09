@@ -1,0 +1,519 @@
+OrderDetailID,OrderID,ProductID,Quantity,ProductName,Price,CategoryID
+1,10248,11,12,Queso Cabrales,21.0,4
+2,10248,42,10,Singaporean Hokkien Fried Mee,14.0,5
+3,10248,72,5,Mozzarella di Giovanni,34.8,4
+4,10249,14,9,Tofu,23.25,7
+5,10249,51,40,Manjimup Dried Apples,53.0,7
+6,10250,41,10,Jack's New England Clam Chowder,9.65,8
+7,10250,51,35,Manjimup Dried Apples,53.0,7
+8,10250,65,15,Louisiana Fiery Hot Pepper Sauce,21.05,2
+9,10251,22,6,Gustaf's Knäckebröd,21.0,5
+10,10251,57,15,Ravioli Angelo,19.5,5
+11,10251,65,20,Louisiana Fiery Hot Pepper Sauce,21.05,2
+12,10252,20,40,Sir Rodney's Marmalade,81.0,3
+13,10252,33,25,Geitost,2.5,4
+14,10252,60,40,Camembert Pierrot,34.0,4
+15,10253,31,20,Gorgonzola Telino,12.5,4
+16,10253,39,42,Chartreuse verte,18.0,1
+17,10253,49,40,Maxilaku,20.0,3
+18,10254,24,15,Guaraná Fantástica,4.5,1
+19,10254,55,21,Pâté chinois,24.0,6
+20,10254,74,21,Longlife Tofu,10.0,7
+21,10255,2,20,Chang,19.0,1
+22,10255,16,35,Pavlova,17.45,3
+23,10255,36,25,Inlagd Sill,19.0,8
+24,10255,59,30,Raclette Courdavault,55.0,4
+25,10256,53,15,Perth Pasties,32.8,6
+26,10256,77,12,Original Frankfurter grüne Soße,13.0,2
+27,10257,27,25,Schoggi Schokolade,43.9,3
+28,10257,39,6,Chartreuse verte,18.0,1
+29,10257,77,15,Original Frankfurter grüne Soße,13.0,2
+30,10258,2,50,Chang,19.0,1
+31,10258,5,65,Chef Anton's Gumbo Mix,21.35,2
+32,10258,32,6,Mascarpone Fabioli,32.0,4
+33,10259,21,10,Sir Rodney's Scones,10.0,3
+34,10259,37,1,Gravad lax,26.0,8
+35,10260,41,16,Jack's New England Clam Chowder,9.65,8
+36,10260,57,50,Ravioli Angelo,19.5,5
+37,10260,62,15,Tarte au sucre,49.3,3
+38,10260,70,21,Outback Lager,15.0,1
+39,10261,21,20,Sir Rodney's Scones,10.0,3
+40,10261,35,20,Steeleye Stout,18.0,1
+41,10262,5,12,Chef Anton's Gumbo Mix,21.35,2
+42,10262,7,15,Uncle Bob's Organic Dried Pears,30.0,7
+43,10262,56,2,Gnocchi di nonna Alice,38.0,5
+44,10263,16,60,Pavlova,17.45,3
+45,10263,24,28,Guaraná Fantástica,4.5,1
+46,10263,30,60,Nord-Ost Matjeshering,25.89,8
+47,10263,74,36,Longlife Tofu,10.0,7
+48,10264,2,35,Chang,19.0,1
+49,10264,41,25,Jack's New England Clam Chowder,9.65,8
+50,10265,17,30,Alice Mutton,39.0,6
+51,10265,70,20,Outback Lager,15.0,1
+52,10266,12,12,Queso Manchego La Pastora,38.0,4
+53,10267,40,50,Boston Crab Meat,18.4,8
+54,10267,59,70,Raclette Courdavault,55.0,4
+55,10267,76,15,Lakkalikööri,18.0,1
+56,10268,29,10,Thüringer Rostbratwurst,123.79,6
+57,10268,72,4,Mozzarella di Giovanni,34.8,4
+58,10269,33,60,Geitost,2.5,4
+59,10269,72,20,Mozzarella di Giovanni,34.8,4
+60,10270,36,30,Inlagd Sill,19.0,8
+61,10270,43,25,Ipoh Coffee,46.0,1
+62,10271,33,24,Geitost,2.5,4
+63,10272,20,6,Sir Rodney's Marmalade,81.0,3
+64,10272,31,40,Gorgonzola Telino,12.5,4
+65,10272,72,24,Mozzarella di Giovanni,34.8,4
+66,10273,10,24,Ikura,31.0,8
+67,10273,31,15,Gorgonzola Telino,12.5,4
+68,10273,33,20,Geitost,2.5,4
+69,10273,40,60,Boston Crab Meat,18.4,8
+70,10273,76,33,Lakkalikööri,18.0,1
+71,10274,71,20,Fløtemysost,21.5,4
+72,10274,72,7,Mozzarella di Giovanni,34.8,4
+73,10275,24,12,Guaraná Fantástica,4.5,1
+74,10275,59,6,Raclette Courdavault,55.0,4
+75,10276,10,15,Ikura,31.0,8
+76,10276,13,10,Konbu,6.0,8
+77,10277,28,20,Rössle Sauerkraut,45.6,7
+78,10277,62,12,Tarte au sucre,49.3,3
+79,10278,44,16,Gula Malacca,19.45,2
+80,10278,59,15,Raclette Courdavault,55.0,4
+81,10278,63,8,Vegie-spread,43.9,2
+82,10278,73,25,Röd Kaviar,15.0,8
+83,10279,17,15,Alice Mutton,39.0,6
+84,10280,24,12,Guaraná Fantástica,4.5,1
+85,10280,55,20,Pâté chinois,24.0,6
+86,10280,75,30,Rhönbräu Klosterbier,7.75,1
+87,10281,19,1,Teatime Chocolate Biscuits,9.2,3
+88,10281,24,6,Guaraná Fantástica,4.5,1
+89,10281,35,4,Steeleye Stout,18.0,1
+90,10282,30,6,Nord-Ost Matjeshering,25.89,8
+91,10282,57,2,Ravioli Angelo,19.5,5
+92,10283,15,20,Genen Shouyu,15.5,2
+93,10283,19,18,Teatime Chocolate Biscuits,9.2,3
+94,10283,60,35,Camembert Pierrot,34.0,4
+95,10283,72,3,Mozzarella di Giovanni,34.8,4
+96,10284,27,15,Schoggi Schokolade,43.9,3
+97,10284,44,21,Gula Malacca,19.45,2
+98,10284,60,20,Camembert Pierrot,34.0,4
+99,10284,67,5,Laughing Lumberjack Lager,14.0,1
+100,10285,1,45,Chais,18.0,1
+101,10285,40,40,Boston Crab Meat,18.4,8
+102,10285,53,36,Perth Pasties,32.8,6
+103,10286,35,100,Steeleye Stout,18.0,1
+104,10286,62,40,Tarte au sucre,49.3,3
+105,10287,16,40,Pavlova,17.45,3
+106,10287,34,20,Sasquatch Ale,14.0,1
+107,10287,46,15,Spegesild,12.0,8
+108,10288,54,10,Tourtière,7.45,6
+109,10288,68,3,Scottish Longbreads,12.5,3
+110,10289,3,30,Aniseed Syrup,10.0,2
+111,10289,64,9,Wimmers gute Semmelknödel,33.25,5
+112,10290,5,20,Chef Anton's Gumbo Mix,21.35,2
+113,10290,29,15,Thüringer Rostbratwurst,123.79,6
+114,10290,49,15,Maxilaku,20.0,3
+115,10290,77,10,Original Frankfurter grüne Soße,13.0,2
+116,10291,13,20,Konbu,6.0,8
+117,10291,44,24,Gula Malacca,19.45,2
+118,10291,51,2,Manjimup Dried Apples,53.0,7
+119,10292,20,20,Sir Rodney's Marmalade,81.0,3
+120,10293,18,12,Carnarvon Tigers,62.5,8
+121,10293,24,10,Guaraná Fantástica,4.5,1
+122,10293,63,5,Vegie-spread,43.9,2
+123,10293,75,6,Rhönbräu Klosterbier,7.75,1
+124,10294,1,18,Chais,18.0,1
+125,10294,17,15,Alice Mutton,39.0,6
+126,10294,43,15,Ipoh Coffee,46.0,1
+127,10294,60,21,Camembert Pierrot,34.0,4
+128,10294,75,6,Rhönbräu Klosterbier,7.75,1
+129,10295,56,4,Gnocchi di nonna Alice,38.0,5
+130,10296,11,12,Queso Cabrales,21.0,4
+131,10296,16,30,Pavlova,17.45,3
+132,10296,69,15,Gudbrandsdalsost,36.0,4
+133,10297,39,60,Chartreuse verte,18.0,1
+134,10297,72,20,Mozzarella di Giovanni,34.8,4
+135,10298,2,40,Chang,19.0,1
+136,10298,36,40,Inlagd Sill,19.0,8
+137,10298,59,30,Raclette Courdavault,55.0,4
+138,10298,62,15,Tarte au sucre,49.3,3
+139,10299,19,15,Teatime Chocolate Biscuits,9.2,3
+140,10299,70,20,Outback Lager,15.0,1
+141,10300,66,30,Louisiana Hot Spiced Okra,17.0,2
+142,10300,68,20,Scottish Longbreads,12.5,3
+143,10301,40,10,Boston Crab Meat,18.4,8
+144,10301,56,20,Gnocchi di nonna Alice,38.0,5
+145,10302,17,40,Alice Mutton,39.0,6
+146,10302,28,28,Rössle Sauerkraut,45.6,7
+147,10302,43,12,Ipoh Coffee,46.0,1
+148,10303,40,40,Boston Crab Meat,18.4,8
+149,10303,65,30,Louisiana Fiery Hot Pepper Sauce,21.05,2
+150,10303,68,15,Scottish Longbreads,12.5,3
+151,10304,49,30,Maxilaku,20.0,3
+152,10304,59,10,Raclette Courdavault,55.0,4
+153,10304,71,2,Fløtemysost,21.5,4
+154,10305,18,25,Carnarvon Tigers,62.5,8
+155,10305,29,25,Thüringer Rostbratwurst,123.79,6
+156,10305,39,30,Chartreuse verte,18.0,1
+157,10306,30,10,Nord-Ost Matjeshering,25.89,8
+158,10306,53,10,Perth Pasties,32.8,6
+159,10306,54,5,Tourtière,7.45,6
+160,10307,62,10,Tarte au sucre,49.3,3
+161,10307,68,3,Scottish Longbreads,12.5,3
+162,10308,69,1,Gudbrandsdalsost,36.0,4
+163,10308,70,5,Outback Lager,15.0,1
+164,10309,4,20,Chef Anton's Cajun Seasoning,22.0,2
+165,10309,6,30,Grandma's Boysenberry Spread,25.0,2
+166,10309,42,2,Singaporean Hokkien Fried Mee,14.0,5
+167,10309,43,20,Ipoh Coffee,46.0,1
+168,10309,71,3,Fløtemysost,21.5,4
+169,10310,16,10,Pavlova,17.45,3
+170,10310,62,5,Tarte au sucre,49.3,3
+171,10311,42,6,Singaporean Hokkien Fried Mee,14.0,5
+172,10311,69,7,Gudbrandsdalsost,36.0,4
+173,10312,28,4,Rössle Sauerkraut,45.6,7
+174,10312,43,24,Ipoh Coffee,46.0,1
+175,10312,53,20,Perth Pasties,32.8,6
+176,10312,75,10,Rhönbräu Klosterbier,7.75,1
+177,10313,36,12,Inlagd Sill,19.0,8
+178,10314,32,40,Mascarpone Fabioli,32.0,4
+179,10314,58,30,Escargots de Bourgogne,13.25,8
+180,10314,62,25,Tarte au sucre,49.3,3
+181,10315,34,14,Sasquatch Ale,14.0,1
+182,10315,70,30,Outback Lager,15.0,1
+183,10316,41,10,Jack's New England Clam Chowder,9.65,8
+184,10316,62,70,Tarte au sucre,49.3,3
+185,10317,1,20,Chais,18.0,1
+186,10318,41,20,Jack's New England Clam Chowder,9.65,8
+187,10318,76,6,Lakkalikööri,18.0,1
+188,10319,17,8,Alice Mutton,39.0,6
+189,10319,28,14,Rössle Sauerkraut,45.6,7
+190,10319,76,30,Lakkalikööri,18.0,1
+191,10320,71,30,Fløtemysost,21.5,4
+192,10321,35,10,Steeleye Stout,18.0,1
+193,10322,52,20,Filo Mix,7.0,5
+194,10323,15,5,Genen Shouyu,15.5,2
+195,10323,25,4,NuNuCa Nuß-Nougat-Creme,14.0,3
+196,10323,39,4,Chartreuse verte,18.0,1
+197,10324,16,21,Pavlova,17.45,3
+198,10324,35,70,Steeleye Stout,18.0,1
+199,10324,46,30,Spegesild,12.0,8
+200,10324,59,40,Raclette Courdavault,55.0,4
+201,10324,63,80,Vegie-spread,43.9,2
+202,10325,6,6,Grandma's Boysenberry Spread,25.0,2
+203,10325,13,12,Konbu,6.0,8
+204,10325,14,9,Tofu,23.25,7
+205,10325,31,4,Gorgonzola Telino,12.5,4
+206,10325,72,40,Mozzarella di Giovanni,34.8,4
+207,10326,4,24,Chef Anton's Cajun Seasoning,22.0,2
+208,10326,57,16,Ravioli Angelo,19.5,5
+209,10326,75,50,Rhönbräu Klosterbier,7.75,1
+210,10327,2,25,Chang,19.0,1
+211,10327,11,50,Queso Cabrales,21.0,4
+212,10327,30,35,Nord-Ost Matjeshering,25.89,8
+213,10327,58,30,Escargots de Bourgogne,13.25,8
+214,10328,59,9,Raclette Courdavault,55.0,4
+215,10328,65,40,Louisiana Fiery Hot Pepper Sauce,21.05,2
+216,10328,68,10,Scottish Longbreads,12.5,3
+217,10329,19,10,Teatime Chocolate Biscuits,9.2,3
+218,10329,30,8,Nord-Ost Matjeshering,25.89,8
+219,10329,38,20,Côte de Blaye,263.5,1
+220,10329,56,12,Gnocchi di nonna Alice,38.0,5
+221,10330,26,50,Gumbär Gummibärchen,31.23,3
+222,10330,72,25,Mozzarella di Giovanni,34.8,4
+223,10331,54,15,Tourtière,7.45,6
+224,10332,18,40,Carnarvon Tigers,62.5,8
+225,10332,42,10,Singaporean Hokkien Fried Mee,14.0,5
+226,10332,47,16,Zaanse koeken,9.5,3
+227,10333,14,10,Tofu,23.25,7
+228,10333,21,10,Sir Rodney's Scones,10.0,3
+229,10333,71,40,Fløtemysost,21.5,4
+230,10334,52,8,Filo Mix,7.0,5
+231,10334,68,10,Scottish Longbreads,12.5,3
+232,10335,2,7,Chang,19.0,1
+233,10335,31,25,Gorgonzola Telino,12.5,4
+234,10335,32,6,Mascarpone Fabioli,32.0,4
+235,10335,51,48,Manjimup Dried Apples,53.0,7
+236,10336,4,18,Chef Anton's Cajun Seasoning,22.0,2
+237,10337,23,40,Tunnbröd,9.0,5
+238,10337,26,24,Gumbär Gummibärchen,31.23,3
+239,10337,36,20,Inlagd Sill,19.0,8
+240,10337,37,28,Gravad lax,26.0,8
+241,10337,72,25,Mozzarella di Giovanni,34.8,4
+242,10338,17,20,Alice Mutton,39.0,6
+243,10338,30,15,Nord-Ost Matjeshering,25.89,8
+244,10339,4,10,Chef Anton's Cajun Seasoning,22.0,2
+245,10339,17,70,Alice Mutton,39.0,6
+246,10339,62,28,Tarte au sucre,49.3,3
+247,10340,18,20,Carnarvon Tigers,62.5,8
+248,10340,41,12,Jack's New England Clam Chowder,9.65,8
+249,10340,43,40,Ipoh Coffee,46.0,1
+250,10341,33,8,Geitost,2.5,4
+251,10341,59,9,Raclette Courdavault,55.0,4
+252,10342,2,24,Chang,19.0,1
+253,10342,31,56,Gorgonzola Telino,12.5,4
+254,10342,36,40,Inlagd Sill,19.0,8
+255,10342,55,40,Pâté chinois,24.0,6
+256,10343,64,50,Wimmers gute Semmelknödel,33.25,5
+257,10343,68,4,Scottish Longbreads,12.5,3
+258,10343,76,15,Lakkalikööri,18.0,1
+259,10344,4,35,Chef Anton's Cajun Seasoning,22.0,2
+260,10344,8,70,Northwoods Cranberry Sauce,40.0,2
+261,10345,8,70,Northwoods Cranberry Sauce,40.0,2
+262,10345,19,80,Teatime Chocolate Biscuits,9.2,3
+263,10345,42,9,Singaporean Hokkien Fried Mee,14.0,5
+264,10346,17,36,Alice Mutton,39.0,6
+265,10346,56,20,Gnocchi di nonna Alice,38.0,5
+266,10347,25,10,NuNuCa Nuß-Nougat-Creme,14.0,3
+267,10347,39,50,Chartreuse verte,18.0,1
+268,10347,40,4,Boston Crab Meat,18.4,8
+269,10347,75,6,Rhönbräu Klosterbier,7.75,1
+270,10348,1,15,Chais,18.0,1
+271,10348,23,25,Tunnbröd,9.0,5
+272,10349,54,24,Tourtière,7.45,6
+273,10350,50,15,Valkoinen suklaa,16.25,3
+274,10350,69,18,Gudbrandsdalsost,36.0,4
+275,10351,38,20,Côte de Blaye,263.5,1
+276,10351,41,13,Jack's New England Clam Chowder,9.65,8
+277,10351,44,77,Gula Malacca,19.45,2
+278,10351,65,10,Louisiana Fiery Hot Pepper Sauce,21.05,2
+279,10352,24,10,Guaraná Fantástica,4.5,1
+280,10352,54,20,Tourtière,7.45,6
+281,10353,11,12,Queso Cabrales,21.0,4
+282,10353,38,50,Côte de Blaye,263.5,1
+283,10354,1,12,Chais,18.0,1
+284,10354,29,4,Thüringer Rostbratwurst,123.79,6
+285,10355,24,25,Guaraná Fantástica,4.5,1
+286,10355,57,25,Ravioli Angelo,19.5,5
+287,10356,31,30,Gorgonzola Telino,12.5,4
+288,10356,55,12,Pâté chinois,24.0,6
+289,10356,69,20,Gudbrandsdalsost,36.0,4
+290,10357,10,30,Ikura,31.0,8
+291,10357,26,16,Gumbär Gummibärchen,31.23,3
+292,10357,60,8,Camembert Pierrot,34.0,4
+293,10358,24,10,Guaraná Fantástica,4.5,1
+294,10358,34,10,Sasquatch Ale,14.0,1
+295,10358,36,20,Inlagd Sill,19.0,8
+296,10359,16,56,Pavlova,17.45,3
+297,10359,31,70,Gorgonzola Telino,12.5,4
+298,10359,60,80,Camembert Pierrot,34.0,4
+299,10360,28,30,Rössle Sauerkraut,45.6,7
+300,10360,29,35,Thüringer Rostbratwurst,123.79,6
+301,10360,38,10,Côte de Blaye,263.5,1
+302,10360,49,35,Maxilaku,20.0,3
+303,10360,54,28,Tourtière,7.45,6
+304,10361,39,54,Chartreuse verte,18.0,1
+305,10361,60,55,Camembert Pierrot,34.0,4
+306,10362,25,50,NuNuCa Nuß-Nougat-Creme,14.0,3
+307,10362,51,20,Manjimup Dried Apples,53.0,7
+308,10362,54,24,Tourtière,7.45,6
+309,10363,31,20,Gorgonzola Telino,12.5,4
+310,10363,75,12,Rhönbräu Klosterbier,7.75,1
+311,10363,76,12,Lakkalikööri,18.0,1
+312,10364,69,30,Gudbrandsdalsost,36.0,4
+313,10364,71,5,Fløtemysost,21.5,4
+314,10365,11,24,Queso Cabrales,21.0,4
+315,10366,65,5,Louisiana Fiery Hot Pepper Sauce,21.05,2
+316,10366,77,5,Original Frankfurter grüne Soße,13.0,2
+317,10367,34,36,Sasquatch Ale,14.0,1
+318,10367,54,18,Tourtière,7.45,6
+319,10367,65,15,Louisiana Fiery Hot Pepper Sauce,21.05,2
+320,10367,77,7,Original Frankfurter grüne Soße,13.0,2
+321,10368,21,5,Sir Rodney's Scones,10.0,3
+322,10368,28,13,Rössle Sauerkraut,45.6,7
+323,10368,57,25,Ravioli Angelo,19.5,5
+324,10368,64,35,Wimmers gute Semmelknödel,33.25,5
+325,10369,29,20,Thüringer Rostbratwurst,123.79,6
+326,10369,56,18,Gnocchi di nonna Alice,38.0,5
+327,10370,1,15,Chais,18.0,1
+328,10370,64,30,Wimmers gute Semmelknödel,33.25,5
+329,10370,74,20,Longlife Tofu,10.0,7
+330,10371,36,6,Inlagd Sill,19.0,8
+331,10372,20,12,Sir Rodney's Marmalade,81.0,3
+332,10372,38,40,Côte de Blaye,263.5,1
+333,10372,60,70,Camembert Pierrot,34.0,4
+334,10372,72,42,Mozzarella di Giovanni,34.8,4
+335,10373,58,80,Escargots de Bourgogne,13.25,8
+336,10373,71,50,Fløtemysost,21.5,4
+337,10374,31,30,Gorgonzola Telino,12.5,4
+338,10374,58,15,Escargots de Bourgogne,13.25,8
+339,10375,14,15,Tofu,23.25,7
+340,10375,54,10,Tourtière,7.45,6
+341,10376,31,42,Gorgonzola Telino,12.5,4
+342,10377,28,20,Rössle Sauerkraut,45.6,7
+343,10377,39,20,Chartreuse verte,18.0,1
+344,10378,71,6,Fløtemysost,21.5,4
+345,10379,41,8,Jack's New England Clam Chowder,9.65,8
+346,10379,63,16,Vegie-spread,43.9,2
+347,10379,65,20,Louisiana Fiery Hot Pepper Sauce,21.05,2
+348,10380,30,18,Nord-Ost Matjeshering,25.89,8
+349,10380,53,20,Perth Pasties,32.8,6
+350,10380,60,6,Camembert Pierrot,34.0,4
+351,10380,70,30,Outback Lager,15.0,1
+352,10381,74,14,Longlife Tofu,10.0,7
+353,10382,5,32,Chef Anton's Gumbo Mix,21.35,2
+354,10382,18,9,Carnarvon Tigers,62.5,8
+355,10382,29,14,Thüringer Rostbratwurst,123.79,6
+356,10382,33,60,Geitost,2.5,4
+357,10382,74,50,Longlife Tofu,10.0,7
+358,10383,13,20,Konbu,6.0,8
+359,10383,50,15,Valkoinen suklaa,16.25,3
+360,10383,56,20,Gnocchi di nonna Alice,38.0,5
+361,10384,20,28,Sir Rodney's Marmalade,81.0,3
+362,10384,60,15,Camembert Pierrot,34.0,4
+363,10385,7,10,Uncle Bob's Organic Dried Pears,30.0,7
+364,10385,60,20,Camembert Pierrot,34.0,4
+365,10385,68,8,Scottish Longbreads,12.5,3
+366,10386,24,15,Guaraná Fantástica,4.5,1
+367,10386,34,10,Sasquatch Ale,14.0,1
+368,10387,24,15,Guaraná Fantástica,4.5,1
+369,10387,28,6,Rössle Sauerkraut,45.6,7
+370,10387,59,12,Raclette Courdavault,55.0,4
+371,10387,71,15,Fløtemysost,21.5,4
+372,10388,45,15,Røgede sild,9.5,8
+373,10388,52,20,Filo Mix,7.0,5
+374,10388,53,40,Perth Pasties,32.8,6
+375,10389,10,16,Ikura,31.0,8
+376,10389,55,15,Pâté chinois,24.0,6
+377,10389,62,20,Tarte au sucre,49.3,3
+378,10389,70,30,Outback Lager,15.0,1
+379,10390,31,60,Gorgonzola Telino,12.5,4
+380,10390,35,40,Steeleye Stout,18.0,1
+381,10390,46,45,Spegesild,12.0,8
+382,10390,72,24,Mozzarella di Giovanni,34.8,4
+383,10391,13,18,Konbu,6.0,8
+384,10392,69,50,Gudbrandsdalsost,36.0,4
+385,10393,2,25,Chang,19.0,1
+386,10393,14,42,Tofu,23.25,7
+387,10393,25,7,NuNuCa Nuß-Nougat-Creme,14.0,3
+388,10393,26,70,Gumbär Gummibärchen,31.23,3
+389,10393,31,32,Gorgonzola Telino,12.5,4
+390,10394,13,10,Konbu,6.0,8
+391,10394,62,10,Tarte au sucre,49.3,3
+392,10395,46,28,Spegesild,12.0,8
+393,10395,53,70,Perth Pasties,32.8,6
+394,10395,69,8,Gudbrandsdalsost,36.0,4
+395,10396,23,40,Tunnbröd,9.0,5
+396,10396,71,60,Fløtemysost,21.5,4
+397,10396,72,21,Mozzarella di Giovanni,34.8,4
+398,10397,21,10,Sir Rodney's Scones,10.0,3
+399,10397,51,18,Manjimup Dried Apples,53.0,7
+400,10398,35,30,Steeleye Stout,18.0,1
+401,10398,55,120,Pâté chinois,24.0,6
+402,10399,68,60,Scottish Longbreads,12.5,3
+403,10399,71,30,Fløtemysost,21.5,4
+404,10399,76,35,Lakkalikööri,18.0,1
+405,10399,77,14,Original Frankfurter grüne Soße,13.0,2
+406,10400,29,21,Thüringer Rostbratwurst,123.79,6
+407,10400,35,35,Steeleye Stout,18.0,1
+408,10400,49,30,Maxilaku,20.0,3
+409,10401,30,18,Nord-Ost Matjeshering,25.89,8
+410,10401,56,70,Gnocchi di nonna Alice,38.0,5
+411,10401,65,20,Louisiana Fiery Hot Pepper Sauce,21.05,2
+412,10401,71,60,Fløtemysost,21.5,4
+413,10402,23,60,Tunnbröd,9.0,5
+414,10402,63,65,Vegie-spread,43.9,2
+415,10403,16,21,Pavlova,17.45,3
+416,10403,48,70,Chocolade,12.75,3
+417,10404,26,30,Gumbär Gummibärchen,31.23,3
+418,10404,42,40,Singaporean Hokkien Fried Mee,14.0,5
+419,10404,49,30,Maxilaku,20.0,3
+420,10405,3,50,Aniseed Syrup,10.0,2
+421,10406,1,10,Chais,18.0,1
+422,10406,21,30,Sir Rodney's Scones,10.0,3
+423,10406,28,42,Rössle Sauerkraut,45.6,7
+424,10406,36,5,Inlagd Sill,19.0,8
+425,10406,40,2,Boston Crab Meat,18.4,8
+426,10407,11,30,Queso Cabrales,21.0,4
+427,10407,69,15,Gudbrandsdalsost,36.0,4
+428,10407,71,15,Fløtemysost,21.5,4
+429,10408,37,10,Gravad lax,26.0,8
+430,10408,54,6,Tourtière,7.45,6
+431,10408,62,35,Tarte au sucre,49.3,3
+432,10409,14,12,Tofu,23.25,7
+433,10409,21,12,Sir Rodney's Scones,10.0,3
+434,10410,33,49,Geitost,2.5,4
+435,10410,59,16,Raclette Courdavault,55.0,4
+436,10411,41,25,Jack's New England Clam Chowder,9.65,8
+437,10411,44,40,Gula Malacca,19.45,2
+438,10411,59,9,Raclette Courdavault,55.0,4
+439,10412,14,20,Tofu,23.25,7
+440,10413,1,24,Chais,18.0,1
+441,10413,62,40,Tarte au sucre,49.3,3
+442,10413,76,14,Lakkalikööri,18.0,1
+443,10414,19,18,Teatime Chocolate Biscuits,9.2,3
+444,10414,33,50,Geitost,2.5,4
+445,10415,17,2,Alice Mutton,39.0,6
+446,10415,33,20,Geitost,2.5,4
+447,10416,19,20,Teatime Chocolate Biscuits,9.2,3
+448,10416,53,10,Perth Pasties,32.8,6
+449,10416,57,20,Ravioli Angelo,19.5,5
+450,10417,38,50,Côte de Blaye,263.5,1
+451,10417,46,2,Spegesild,12.0,8
+452,10417,68,36,Scottish Longbreads,12.5,3
+453,10417,77,35,Original Frankfurter grüne Soße,13.0,2
+454,10418,2,60,Chang,19.0,1
+455,10418,47,55,Zaanse koeken,9.5,3
+456,10418,61,16,Sirop d'érable,28.5,2
+457,10418,74,15,Longlife Tofu,10.0,7
+458,10419,60,60,Camembert Pierrot,34.0,4
+459,10419,69,20,Gudbrandsdalsost,36.0,4
+460,10420,9,20,Mishi Kobe Niku,97.0,6
+461,10420,13,2,Konbu,6.0,8
+462,10420,70,8,Outback Lager,15.0,1
+463,10420,73,20,Röd Kaviar,15.0,8
+464,10421,19,4,Teatime Chocolate Biscuits,9.2,3
+465,10421,26,30,Gumbär Gummibärchen,31.23,3
+466,10421,53,15,Perth Pasties,32.8,6
+467,10421,77,10,Original Frankfurter grüne Soße,13.0,2
+468,10422,26,2,Gumbär Gummibärchen,31.23,3
+469,10423,31,14,Gorgonzola Telino,12.5,4
+470,10423,59,20,Raclette Courdavault,55.0,4
+471,10424,35,60,Steeleye Stout,18.0,1
+472,10424,38,49,Côte de Blaye,263.5,1
+473,10424,68,30,Scottish Longbreads,12.5,3
+474,10425,55,10,Pâté chinois,24.0,6
+475,10425,76,20,Lakkalikööri,18.0,1
+476,10426,56,5,Gnocchi di nonna Alice,38.0,5
+477,10426,64,7,Wimmers gute Semmelknödel,33.25,5
+478,10427,14,35,Tofu,23.25,7
+479,10428,46,20,Spegesild,12.0,8
+480,10429,50,40,Valkoinen suklaa,16.25,3
+481,10429,63,35,Vegie-spread,43.9,2
+482,10430,17,45,Alice Mutton,39.0,6
+483,10430,21,50,Sir Rodney's Scones,10.0,3
+484,10430,56,30,Gnocchi di nonna Alice,38.0,5
+485,10430,59,70,Raclette Courdavault,55.0,4
+486,10431,17,50,Alice Mutton,39.0,6
+487,10431,40,50,Boston Crab Meat,18.4,8
+488,10431,47,30,Zaanse koeken,9.5,3
+489,10432,26,10,Gumbär Gummibärchen,31.23,3
+490,10432,54,40,Tourtière,7.45,6
+491,10433,56,28,Gnocchi di nonna Alice,38.0,5
+492,10434,11,6,Queso Cabrales,21.0,4
+493,10434,76,18,Lakkalikööri,18.0,1
+494,10435,2,10,Chang,19.0,1
+495,10435,22,12,Gustaf's Knäckebröd,21.0,5
+496,10435,72,10,Mozzarella di Giovanni,34.8,4
+497,10436,46,5,Spegesild,12.0,8
+498,10436,56,40,Gnocchi di nonna Alice,38.0,5
+499,10436,64,30,Wimmers gute Semmelknödel,33.25,5
+500,10436,75,24,Rhönbräu Klosterbier,7.75,1
+501,10437,53,15,Perth Pasties,32.8,6
+502,10438,19,15,Teatime Chocolate Biscuits,9.2,3
+503,10438,34,20,Sasquatch Ale,14.0,1
+504,10438,57,15,Ravioli Angelo,19.5,5
+505,10439,12,15,Queso Manchego La Pastora,38.0,4
+506,10439,16,16,Pavlova,17.45,3
+507,10439,64,6,Wimmers gute Semmelknödel,33.25,5
+508,10439,74,30,Longlife Tofu,10.0,7
+509,10440,2,45,Chang,19.0,1
+510,10440,16,49,Pavlova,17.45,3
+511,10440,29,24,Thüringer Rostbratwurst,123.79,6
+512,10440,61,90,Sirop d'érable,28.5,2
+513,10441,27,50,Schoggi Schokolade,43.9,3
+514,10442,11,30,Queso Cabrales,21.0,4
+515,10442,54,80,Tourtière,7.45,6
+516,10442,66,60,Louisiana Hot Spiced Okra,17.0,2
+517,10443,11,6,Queso Cabrales,21.0,4
+518,10443,28,12,Rössle Sauerkraut,45.6,7

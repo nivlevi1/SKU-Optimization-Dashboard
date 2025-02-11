@@ -26,7 +26,6 @@ Download the project files to your local machine:
 
 ```bash
 git clone https://github.com/nivlevi1/SKU-Optimization-Dashboard
-cd SKU_OPRIMIZATION_DASHBOARD/
 ```
 
 ---

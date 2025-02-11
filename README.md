@@ -8,6 +8,9 @@ warehouse, we have to reduce the SKU assortment by 30%. Prepare a dashboard in T
 Public that will help identify which SKUs should be excluded”.
 
 ---
+### Access the Dashbaord
+
+You can access the dashboard @ [Tableau Public](https://public.tableau.com/app/profile/niv.levi4310/viz/SKUOptimizationDashboard/SKUOptimizationDashboard)
 
 ## **Steps to Run the Notebook**
 
@@ -66,9 +69,3 @@ To stop the notebook, press `CTRL+C` or run:
 ```bash
 docker-compose down
 ```
-
----
-
-### Access the Dashbaord**
-
-You can access the dashboard @ [Tableau Public](https://public.tableau.com/app/profile/niv.levi4310/viz/SKUOptimizationDashboard/SKUOptimizationDashboard)

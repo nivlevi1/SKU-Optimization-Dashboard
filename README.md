@@ -71,8 +71,4 @@ docker-compose down
 
 ### Access the Dashbaord**
 
-You can access the dashboard @ [Tableau Public](https://public.tableau.com/app/profile/niv.levi4310/viz/SKUOptimizationDashboard/SKUOptimizationDashboard):
-
-```bash
-docker-compose down
-```
+You can access the dashboard @ [Tableau Public](https://public.tableau.com/app/profile/niv.levi4310/viz/SKUOptimizationDashboard/SKUOptimizationDashboard)

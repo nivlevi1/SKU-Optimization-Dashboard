@@ -25,7 +25,7 @@ Make sure you have:
 Download the project files to your local machine:
 
 ```bash
-git clone xxxxxx
+git clone https://github.com/nivlevi1/SKU-Optimization-Dashboard
 cd SKU_OPRIMIZATION_DASHBOARD/
 ```
 
@@ -42,7 +42,7 @@ docker-compose up
 Once it starts, you'll see a message with the link to access the notebook, like:
 
 ```
-http://127.0.0.1:8888/?token=Naya
+http://127.0.0.1:8888/?token=...
 ```
 
 ---
@@ -63,6 +63,16 @@ http://127.0.0.1:8888/?token=Naya
 ### **5. Stop the Notebook**
 
 To stop the notebook, press `CTRL+C` or run:
+
+```bash
+docker-compose down
+```
+
+---
+
+### Access the Dashbaord**
+
+You can access the dashboard @ [Tableau Public](https://public.tableau.com/app/profile/niv.levi4310/viz/SKUOptimizationDashboard/SKUOptimizationDashboard):
 
 ```bash
 docker-compose down
